@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Build artifacts
+dist/
+build/
+coverage/
+.next/
+out/ # Next.js static export
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ESLint & Prettier cache
+.eslintcache
+.prettierignore
+
+# Storybook files
+.storybook-out/
+
+# React Native
+.expo/
+.expo-shared/

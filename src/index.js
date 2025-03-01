@@ -1,1 +1,1 @@
-export { mapRight } from './mapRight/mapRight'
+export { mapRight } from "./mapRight/mapRight";
