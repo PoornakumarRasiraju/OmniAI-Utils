@@ -4,7 +4,7 @@ export function mapRight(array, callback) {
 
 	const result = [];
 	for (let i = array.length - 1; i >= 0; i--) {
-			result.push(callback(array[i], i, array));
+		result.push(callback(array[i], i, array));
 	}
 	return result;
 }
