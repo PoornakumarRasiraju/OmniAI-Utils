@@ -1,5 +1,5 @@
 # OmniAI-Utils
-`OmniAI-Utils` is a library offering advanced AI and general utility functions. It provides robust, efficient, and AI-driven helper functions for handling common tasks such as data manipulation, performance optimization, and AI-enhanced automation.
+`OmniAI-Utils` is a library offering advanced AI and general utility functions. It provides robust, efficient, and AI-driven helper functions such as data manipulation, performance optimization, and AI-enhanced automation.
 
 ## Features
 
@@ -16,12 +16,12 @@ OmniAI-Utils is available via npm and Yarn. To install, use one of the following
 
 ### Using npm:
 ```
-npm install OmniAi-Utils
+npm install omniai-utils
 ```
 
 ### Using Yarn:
 ```
-yarn add OmniAi-Utils
+yarn add omniai-utils
 ```
 
 ## Running Tests
