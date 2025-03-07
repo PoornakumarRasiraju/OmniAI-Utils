@@ -16,7 +16,8 @@ class PerformanceTracker {
     const duration = endTime - this.startTimes[name];
     console.log(`Performance for "${name}": ${duration}ms`);
 
-    // Optionally send the data to a server for monitoring
+    //Optionally send the data to a server for monitoring
+    // Integrate with SDK or 3rd party
     // fetch('https://example.com/track-performance', { 
     //   method: 'POST',
     //   body: JSON.stringify({ name, duration })
