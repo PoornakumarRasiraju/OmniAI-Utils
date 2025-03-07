@@ -1,5 +1,5 @@
 # OmniAI-Utils
-`OmniAI-Utils` is a library offering advanced AI and general utility functions. It provides robust, efficient, and AI-driven helper functions such as data manipulation, performance optimization, and AI-enhanced automation.
+`OmniAI-Utils` is a library offering advanced AI and general utility functions. It provides robust, efficient, and AI-driven task automation functions such as data manipulation, performance, and AI-enhanced workflow optimization.
 
 ## Features
 
