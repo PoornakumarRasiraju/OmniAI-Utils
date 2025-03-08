@@ -36,3 +36,21 @@ observability.info('User logged in', { userId: '12345' });
 
 // Log an error (this will also be sent to a remote error tracker if in production)
 observability.error('Failed to fetch user data', { userId: '12345', error: '404 Not Found' });
+
+# Observability Utility for JavaScript
+
+## Methods
+
+### `log(level, message, data)`
+Logs messages at a specific log level. The available log levels are:
+
+- `'debug'`: For verbose logging, useful for debugging.
+- `'info'`: For general information logs.
+- `'warn'`: For warnings that don’t necessarily indicate an error.
+- `'error'`: For logging errors and exceptions.
+
+**Example**:
+
+```javascript
+observability.log('info', 'User data fetched successfully', { userId: '12345' });
+
